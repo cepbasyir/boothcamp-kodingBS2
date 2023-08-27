@@ -19,7 +19,7 @@
             array_push($errors, 'Gagal menambah tugas.');
         }
 
-        header('Location: http://localhost/boothcampbs2/todolist');
+        header('Location: http://localhost/boothcampbs2/php/todolist');
         
     }
     
@@ -29,7 +29,7 @@
         
         $result = $conn->query("DELETE FROM Task WHERE ID = $id");
         
-        header('Location: http://localhost/boothcampbs2/todolist');
+        header('Location: http://localhost/boothcampbs2/php/todolist');
         
         }
     }

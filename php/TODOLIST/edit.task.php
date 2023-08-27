@@ -12,7 +12,7 @@
 
            $result = $conn->query("UPDATE Task SET description = '$description', do_date = '$do_date' WHERE ID = $id");
 
-           header("Location: http://localhost/boothcampbs2/todolist");
+           header("Location: http://localhost/boothcampbs2/php/todolist");
         }        
     }
 

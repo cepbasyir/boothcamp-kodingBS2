@@ -9,7 +9,7 @@ ini_set('error_log', '1');
 
     if(!isset($_SESSION['user']))
     {
-        header("Location: htpp://localhost/boothcampbs2/todolist/login.php");
+        return header("Location: htpp://localhost/boothcampbs2/php/todolist/login.php");
     }
 
     $errors = [];
@@ -50,7 +50,7 @@ ini_set('error_log', '1');
             TODO List App
         </h1>
         <div>
-             Selamat datang <?php echo $_SESSION['user']['fullname']; ?>. <a href="http://localhost/boothcampbs2/todolist/logout.php">Log Out</a>
+             Selamat datang <?php echo $_SESSION['user']['fullname']; ?>. <a href="http://localhost/boothcampbs2/php/todolist/logout.php">Log Out</a>
         </div>
         <div id="task-list">
             <?PHP
@@ -62,7 +62,7 @@ ini_set('error_log', '1');
                         <?php echo $task['description'] . '(' . $task['do_date'] . ')' ?>
                     </div>
                     <div class="action">
-                        <a href="http://localhost/boothcampbs2/todolist/edit.task.php?id=<?php echo $task['ID']?>">
+                        <a href="http://localhost/boothcampbs2/php/todolist/edit.task.php?id=<?php echo $task['ID']?>">
                             <button>Edit</button>            
                         </a>
                         <form action="action.php" method="POST">

@@ -30,7 +30,7 @@
                     'fullname' => $fullname,
                     'id' => $id
                 ];
-                header ("Location: http://localhost/boothcampbs2/todolist/index.php");
+                header ("Location: http://localhost/boothcampbs2/php/todolist/index.php");
                }
                else
                {
