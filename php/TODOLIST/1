@@ -1,0 +1,12 @@
+[27-Aug-2023 09:31:01 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\boothcampbs2\TODOLIST\index.php on line 17
+[27-Aug-2023 09:31:01 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\boothcampbs2\TODOLIST\index.php on line 17
+[27-Aug-2023 09:31:01 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\boothcampbs2\TODOLIST\index.php on line 53
+[27-Aug-2023 09:31:01 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\boothcampbs2\TODOLIST\index.php on line 53
+[27-Aug-2023 09:31:11 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\boothcampbs2\TODOLIST\index.php on line 17
+[27-Aug-2023 09:31:11 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\boothcampbs2\TODOLIST\index.php on line 17
+[27-Aug-2023 09:31:11 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\boothcampbs2\TODOLIST\index.php on line 53
+[27-Aug-2023 09:31:11 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\boothcampbs2\TODOLIST\index.php on line 53
+[27-Aug-2023 09:37:07 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\boothcampbs2\TODOLIST\index.php on line 17
+[27-Aug-2023 09:37:07 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\boothcampbs2\TODOLIST\index.php on line 17
+[27-Aug-2023 09:37:08 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\boothcampbs2\TODOLIST\index.php on line 53
+[27-Aug-2023 09:37:08 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\boothcampbs2\TODOLIST\index.php on line 53
